@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/static/logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="docs/static/logo-light.svg">
-    <img alt="MCPcat Logo" src="docs/static/logo-light.svg" width="80%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MCPCat/mcpcat/main/.github/docs/static/logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MCPCat/mcpcat/main/.github/docs/static/logo-light.svg">
+    <img alt="MCPcat Logo" src="https://raw.githubusercontent.com/MCPCat/mcpcat/main/.github/docs/static/logo-light.svg" width="80%">
   </picture>
 </div>
 <h3 align="center">
@@ -60,8 +60,8 @@ _Already using MCPcat? We'll upgrade your account immediately._
 Meet the cats behind MCPcat! Add your cat to our community by submitting a PR with your cat's photo in the `docs/cats/` directory.
 
 <div align="left">
-  <img src="docs/cats/bibi.png" alt="bibi" width="80" height="80">
-  <img src="docs/cats/zelda.jpg" alt="zelda" width="80" height="80">
+  <img src="https://raw.githubusercontent.com/MCPCat/mcpcat/main/.github/docs/cats/bibi.png" alt="bibi" width="80" height="80">
+  <img src="https://raw.githubusercontent.com/MCPCat/mcpcat/main/.github/docs/cats/zelda.jpg" alt="zelda" width="80" height="80">
 </div>
 
 _Want to add your cat? Create a PR adding your cat's photo to `docs/cats/` and update this section!_
