@@ -20,18 +20,20 @@
   <a href="https://www.npmjs.com/package/mcpcat"><img src="https://img.shields.io/npm/dm/mcpcat.svg" alt="npm downloads"></a>
 </p>
 
-> [!NOTE]
-> Looking for the TypeScript SDK? Check it out here [mcpcat-typescript](https://github.com/mcpcat/mcpcat-typescript-sdk).
 
 MCPcat is an analytics platform for MCP server owners 🐱. It captures user intentions and behavior patterns to help you understand what AI users actually need from your tools — eliminating guesswork and accelerating product development all with one-line of code.
 
 ```bash
 pip install mcpcat
-# or
+```
+Checkout the [Python SDK here](https://github.com/mcpcat/mcpcat-python-sdk).
+
+```bash
 npm install mcpcat
 ```
+Checkout the [Python SDK here](https://github.com/mcpcat/mcpcat-python-sdk).
 
-To learn more about us, check us out [here](https://mcpcat.io)
+Create an account for free today at [mcpcat.io](https://mcpcat.io).
 
 ## Why use MCPcat? 🤔
 
