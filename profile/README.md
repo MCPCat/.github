@@ -27,6 +27,8 @@ MCPcat is an analytics platform for MCP server owners 🐱. It captures user int
 
 ```bash
 pip install mcpcat
+# or
+npm install mcpcat
 ```
 
 To learn more about us, check us out [here](https://mcpcat.io)
