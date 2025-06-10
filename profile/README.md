@@ -31,7 +31,7 @@ Checkout the [Python SDK here](https://github.com/mcpcat/mcpcat-python-sdk).
 ```bash
 npm install mcpcat
 ```
-Checkout the [Python SDK here](https://github.com/mcpcat/mcpcat-python-sdk).
+Checkout the [Typescript SDK here](https://github.com/mcpcat/mcpcat-typescript-sdk).
 
 Create an account for free today at [mcpcat.io](https://mcpcat.io).
 
