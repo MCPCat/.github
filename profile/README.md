@@ -6,8 +6,6 @@
   </picture>
 </div>
 <h3 align="center">
-    <a href="#getting-started">Getting Started</a>
-    <span> · </span>
     <a href="#why-use-mcpcat-">Features</a>
     <span> · </span>
     <a href="https://mcpcat.io">Website</a>
