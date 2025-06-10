@@ -18,9 +18,8 @@
   <a href="https://badge.fury.io/py/mcpcat"><img src="https://badge.fury.io/py/mcpcat.svg" alt="PyPI version"></a>
   <a href="https://pypi.org/project/mcpcat/"><img src="https://img.shields.io/pypi/dm/mcpcat.svg" alt="PyPI downloads"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python"></a>
-  <a href="https://github.com/MCPCat/mcpcat-python-sdk/issues"><img src="https://img.shields.io/github/issues/MCPCat/mcpcat-python-sdk.svg" alt="GitHub issues"></a>
-  <a href="https://github.com/MCPCat/mcpcat-python-sdk/actions"><img src="https://github.com/MCPCat/mcpcat-python-sdk/workflows/MCP%20Version%20Compatibility%20Testing/badge.svg" alt="CI"></a>
+  <a href="https://badge.fury.io/js/mcpcat"><img src="https://badge.fury.io/js/mcpcat.svg" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/mcpcat"><img src="https://img.shields.io/npm/dm/mcpcat.svg" alt="npm downloads"></a>
 </p>
 
 > [!NOTE]
