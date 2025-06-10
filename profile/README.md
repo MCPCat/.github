@@ -44,6 +44,12 @@ Use MCPcat for:
 
 ## Supported SDKs
 
+| SDK | Version | Status |
+|-----|---------|--------|
+| 🟦 [TypeScript](https://github.com/mcpcat/mcpcat-typescript-sdk) | MCP v1.0.0+| ✅ Available |
+| 🐍 [Python](https://github.com/mcpcat/mcpcat-python-sdk) | MCP v1.2.0+| ✅ Available |
+| 🐹 Go | - | 🚧 Roadmap |
+| ☕ Java | - | 🚧 Roadmap |
 
 
 ## Free for open source
