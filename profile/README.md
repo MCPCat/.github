@@ -25,6 +25,8 @@
 
 MCPcat is an analytics platform for MCP server owners 🐱. It captures user intentions and behavior patterns to help you understand what AI users actually need from your tools — eliminating guesswork and accelerating product development all with one-line of code.
 
+🎉 MCPcat now offers open source support for existing observability platforms, like [OpenTelemetry](https://opentelemetry.io/), [Datadog](https://www.datadoghq.com/), and [Sentry](https://sentry.io/). Contribute or message us to add support for yours today 🎉
+
 ```bash
 pip install mcpcat
 ```
@@ -45,8 +47,9 @@ Use MCPcat for:
 
 - **User session replay** 🎬. Follow alongside your users to understand why they're using your MCP servers, what functionality you're missing, and what clients they're coming from.
 - **Trace debugging** 🔍. See where your users are getting stuck, track and find when LLMs get confused by your API, and debug sessions across all deployments of your MCP server.
+- **Existing platform support** 📊. Get logging and tracing out of the box for your existing observability platforms (OpenTelemetry, Datadog, Sentry) — eliminating the tedious work of implementing telemetry yourself.
 
-## Supported SDKs
+## Supported MCP SDKs
 
 | SDK | Version | Status |
 |-----|---------|--------|
@@ -55,6 +58,15 @@ Use MCPcat for:
 | 🐹 Go | - | 🚧 Roadmap |
 | ☕ Java | - | 🚧 Roadmap |
 
+## Supported Observability Platforms
+
+  | Platform | Version | Status |
+  |----------|---------|--------|
+  | 📊 [OpenTelemetry](https://opentelemetry.io/) | v1.0.0+ | ✅ Available |
+  | 🐕 [Datadog](https://www.datadoghq.com/) | v2.0.0+ | ✅ Available |
+  | 🔍 [Sentry](https://sentry.io/) | v7.0.0+ | ✅ Available |
+
+Since MCPcat supports OpenTelemetry, check to see if your existing vendor or platform is already [supported](https://opentelemetry.io/ecosystem/vendors/)!
 
 ## Free for open source
 
